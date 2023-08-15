@@ -31,7 +31,9 @@
 .imgdog{
   border-radius:50%;
 }
-
+ .ads{
+justify-content:space around;
+}
 
 
 .lead{
