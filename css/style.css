@@ -49,5 +49,8 @@
 }
 
 @media(max-width:680px) {
-   .ads{display}
+   .ads{
+display:flex;
+flex-direction:column;  
+}
 }
